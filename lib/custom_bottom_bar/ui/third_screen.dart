@@ -7,6 +7,7 @@ class ThirdScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Color(0xFF2E2E48),
         title: const Text('Screen 3'),
       ),
       body: const Center(

@@ -7,6 +7,7 @@ class SecondScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Color(0xFF2E2E48),
         title: const Text('Screen 2'),
       ),
       body: const Center(

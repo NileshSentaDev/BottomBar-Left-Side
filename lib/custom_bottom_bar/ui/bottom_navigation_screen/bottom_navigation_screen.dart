@@ -1,9 +1,9 @@
+import 'package:bottom_bar_left_side/custom_bottom_bar/ui/first_screen.dart';
+import 'package:bottom_bar_left_side/custom_bottom_bar/ui/five_screen.dart';
+import 'package:bottom_bar_left_side/custom_bottom_bar/ui/fourth_screen.dart';
+import 'package:bottom_bar_left_side/custom_bottom_bar/ui/second_screen.dart';
+import 'package:bottom_bar_left_side/custom_bottom_bar/ui/third_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:bottom_bar_left_side/ui/first_screen.dart';
-import 'package:bottom_bar_left_side/ui/five_screen.dart';
-import 'package:bottom_bar_left_side/ui/fourth_screen.dart';
-import 'package:bottom_bar_left_side/ui/second_screen.dart';
-import 'package:bottom_bar_left_side/ui/third_screen.dart';
 
 class BottomNavigationScreen extends StatefulWidget {
   const BottomNavigationScreen({super.key});
